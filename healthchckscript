@@ -1,5 +1,5 @@
 #!/bin/bash 
-EMAIL=''
+EMAIL='karthickkaruna31@gmail.com'
 function sysstat {
 echo -e "
 #####################################################################

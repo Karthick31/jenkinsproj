@@ -139,3 +139,4 @@ then
 		cat $FILENAME | mail -s "$FILENAME" $EMAIL
 	fi
 fi
+cat $FILENAME;
